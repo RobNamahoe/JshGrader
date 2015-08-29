@@ -3,7 +3,6 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
-import java.util.Objects;
 
 /**
  * A class to automate checking of pa2 - Jsh1.
